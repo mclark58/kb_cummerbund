@@ -1,3 +1,7 @@
+### Version 1.0.5
+__Changes__
+- added KBase paper citation in PLOS format
+
 #### This module is deprecated.
 
 ### Version 1.0.4

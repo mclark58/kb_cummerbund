@@ -5,7 +5,7 @@ name     : View interactive heatmap - v1.0.2
 subtitle : |
     View interactive heatmap
 tooltip  : |
-    View interactive heatmap 
+    View interactive heatmap
 
 icon: kb_expr-yellow.png
 
@@ -36,14 +36,20 @@ parameters :
         ui-name : |
             Expression matrix
         short-hint : |
-           Expression matrix 
+           Expression matrix
         long-hint  : |
-           Expression matrix 
+           Expression matrix
 
 
 description : |
-    View heatmap 
+    View heatmap
 
 
 technical-description : |
-    View heatmap 
+    View heatmap
+
+publications :
+    -
+        display-text: |
+            Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S, et al. KBase: The United States Department of Energy Systems Biology Knowledgebase. Nature Biotechnology. 2018;36: 566. doi: 10.1038/nbt.4163
+        link: https://www.nature.com/articles/nbt.4163

@@ -5,7 +5,7 @@ name     : View interactive volcano plot - v1.0.2
 subtitle : |
     View interactive volcano plot
 tooltip  : |
-    View interactive volcano plot 
+    View interactive volcano plot
 
 icon: kb_expr-yellow.png
 
@@ -34,9 +34,9 @@ suggestions :
 parameters :
     param0 :
         ui-name : |
-           Differential expression statistics 
+           Differential expression statistics
         short-hint : |
-           Differential expression statistics 
+           Differential expression statistics
         long-hint  : |
            Differential expression statistics. This is produced by running the app View CummeRbund Plots
     sample1:
@@ -57,3 +57,9 @@ description : |
 
     <p><strong>Team members who developed & deployed algorithm in KBase:</strong>
     Priya Ranjan, Jim Thomason, Srividya Ramakrishnan, Sunita Kumari, Shinjae Yoo, Fei He, Vivek Kumar</p>
+
+publications :
+    -
+        display-text: |
+            Arkin AP, Cottingham RW, Henry CS, Harris NL, Stevens RL, Maslov S, et al. KBase: The United States Department of Energy Systems Biology Knowledgebase. Nature Biotechnology. 2018;36: 566. doi: 10.1038/nbt.4163
+        link: https://www.nature.com/articles/nbt.4163
